@@ -1,0 +1,64 @@
+[24-Nov-2022 02:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[24-Nov-2022 02:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[24-Nov-2022 02:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[24-Nov-2022 02:44:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[16-Dec-2022 16:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[16-Dec-2022 16:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[16-Dec-2022 16:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[16-Dec-2022 16:32:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[20-Dec-2022 10:31:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[21-Dec-2022 18:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[21-Dec-2022 18:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[21-Dec-2022 18:54:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[22-Dec-2022 19:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[22-Dec-2022 19:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[22-Dec-2022 19:10:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20
+[22-Dec-2022 19:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ze3v62s07eh4/public_html/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ze3v62s07eh4/public_html/config/cache.php on line 20

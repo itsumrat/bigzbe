@@ -1,0 +1,132 @@
+/*your custom css goes here*/
+.shop-banner {
+    position: relative;
+    margin-bottom: 1.3rem;
+  }
+  .h-150px {
+      height: 150px;
+  }
+  .img-fit {
+      max-width: 100%;
+      width: 100%;
+      object-fit: cover;
+  }
+  .shop-logo {
+    position: absolute;
+    top: 20%;
+    left: 6%;
+  }
+  .shop-summary {
+    position: absolute;
+    top: 51%;
+    left: 25%;
+    opacity: 80%;
+    padding: 5px;
+    border-radius: 4px;
+  }
+  .shop-summary .shop-name {
+    font-size: 1.3125rem!important;
+    margin-bottom: 0.3rem;
+  }
+  .shop-summary p {
+    margin: 0;
+  }
+  
+.shop-category {
+    position: absolute;
+    bottom: 67%;
+    right: 5%;
+}
+
+.shop-category p {
+    text-transform: uppercase;
+    background: rgba(255,255,255,.3);
+    border-radius: 50px;
+    padding: 4px 16px;
+    line-height: 20px;
+    color: #fff;
+    font-weight: 400;
+}
+/* Single Shop*/
+
+h2 span {
+  color: #1e98d5;
+  margin: 0 0 0 8px;
+  padding: 8px 16px;
+  line-height: 15px;
+  letter-spacing: 2.5px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  background-color: #fff;
+  border: 1px solid #1e98d5;
+  font-size: 10px;
+  font-weight: 500;
+  position: relative;
+  top: -6px;
+}
+
+
+.boxed-widget{
+    background-color: #f9f9f9;
+    border-radius: 3px;
+    padding: 32px;
+    margin-top: 35px;
+
+}
+
+.boxed-widget h3 {
+    font-size: 20px;
+    padding: 0 0 20px;
+    margin: 0 0 20px;
+    display: block;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.opening-hours {
+    position: relative;
+    overflow: hidden;
+}
+.opening-hours ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+
+.opening-hours ul li {
+    width: 100%;
+    font-weight: 600;
+    color: #888;
+    margin: 2px 0;
+    -webkit-transition: .2s;
+    transition: .2s;
+    cursor: default;
+}
+.opening-hours ul li span {
+    float: right;
+    font-weight: 400;
+}
+
+.listing-details-sidebar {
+    padding: 0;
+    list-style: none;
+    font-size: 15px;
+    margin-bottom: -5px;
+    position: relative;
+    display: block;
+}
+.listing-details-sidebar li {
+    display: block;
+    padding-left: 26px;
+    position: relative;
+    margin-bottom: 5px;
+    line-height: 24px;
+}
+
+.listing-details-sidebar li i {
+    position: absolute;
+    left: 0;
+    top: 5px;
+    font-size: 16px;
+    color: #888;
+}
